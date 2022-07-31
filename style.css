@@ -1,0 +1,110 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #21325E;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 10px;
+    color: #F0F0F0;
+
+}
+
+.navigacija {
+    text-align: center;
+    width: 100%;
+}
+
+ul{
+    background-color: #F1D00A;
+    overflow: hidden;
+    text-align: center;
+    display: inline-block;
+
+}
+
+
+li {
+    float: left;
+    display: block;
+    color: #21325E;
+    text-align: center;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 2px;
+    margin: 0;
+    border: solid 1px #21325E;
+    min-width: 80px;
+}
+
+h3 {
+
+    font-size: 70px;
+    margin-top: 10px;
+    text-align: center;
+    color: #F0F0F0;
+}
+
+#Nuotrauka {
+    width: 400px;
+    height: 400px;
+    background-color: #F1D00A;
+    margin: 30px auto;
+     background-image: url(nuotraukos/Andrius.png);
+     background-size: cover;
+     background-position: center;
+     border-radius: 70px;
+    border: 2px solid;
+    box-shadow: 50px 50px 100px black;
+}
+
+.social {
+text-align: center;
+margin: 25px;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    color: #F0F0F0;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Uchen', serif;    
+
+    
+}
+
+.tekstas {
+ width: 90%;
+ margin-top: 20px;
+ margin-left: 5%;
+ margin-right: 5%;
+ text-align: justify;
+}
+
+#gifas {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+}
+
+#VU {
+    width: 400px;
+    height: 400px;
+    background-color: #F1D00A;
+    margin: 30px;
+    background-image: url(nuotraukos/VU.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 70px;
+    border: 2px solid;
+    box-shadow: 50px 50px 100px black;
+}
