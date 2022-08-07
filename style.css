@@ -57,7 +57,7 @@ h3 {
     height: 400px;
     background-color: #F1D00A;
     margin: 30px auto;
-     background-image: url(nuotraukos/Andrius.png);
+     background-image: url(Nuotraukos/Andrius.png);
      background-size: cover;
      background-position: center;
      border-radius: 70px;
@@ -101,7 +101,7 @@ p {
     height: 400px;
     background-color: #F1D00A;
     margin: 30px;
-    background-image: url(nuotraukos/VU.jpg);
+    background-image: url(Nuotraukos/VU.jpg);
     background-size: cover;
     background-position: center;
     border-radius: 70px;
